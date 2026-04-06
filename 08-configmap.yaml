@@ -4,4 +4,4 @@ metadata:
   name: nginx-config
 data:
   environment: dev
-  
+  component: frontend
